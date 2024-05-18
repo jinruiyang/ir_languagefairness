@@ -1,0 +1,6 @@
+transformers
+torch
+faiss-cpu
+datasets
+tqdm
+pyyaml
