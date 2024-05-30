@@ -4,6 +4,10 @@
 https://drive.google.com/drive/folders/1UFjEx0lUzW25WDgCVBQ3kdiMrAM9TXoZ?usp=sharing
 
 ## Step 2 Install environment 
+it should be runable with DPR dependency
+pip install .
+pip install ir-measures
+pip install peer_measure
 
 ## Train with Evaluate
 
