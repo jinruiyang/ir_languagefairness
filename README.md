@@ -1,6 +1,7 @@
 # ir_languagefairness
 
 ## Step 1 Download data
+https://drive.google.com/drive/folders/1UFjEx0lUzW25WDgCVBQ3kdiMrAM9TXoZ?usp=sharing
 
 ## Step 2 Install environment 
 
