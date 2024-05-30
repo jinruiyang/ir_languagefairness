@@ -25,7 +25,7 @@ CUDA_VISIBLE_DEVICES=0 python src/trainCL_with_eva.py \
     --max_passage_length 180 \
     --alignment_loss_weight 1 \
     --output_dir {your own path to save the model checkpoints}/checkpoints/cl \
-    --dev_input_dir {your own path to save the dev data}/dev \
+    --dev_input_dir {your own path to save the dev data} \
     --dev_passages {your own path to save the dev data}/dev_passages.json \
     --sorted_qid {your own path to save the dev data}/sorted_qid_df.csv \
     --mode train+evaluate
